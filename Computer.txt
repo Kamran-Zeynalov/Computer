@@ -2,3 +2,4 @@ Monitor
 Klaviatura
 Sisten Bloku
 Lenovo
+Acer

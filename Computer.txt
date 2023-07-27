@@ -3,3 +3,4 @@ Klaviatura
 Sisten Bloku
 Lenovo
 Acer
+Linux
